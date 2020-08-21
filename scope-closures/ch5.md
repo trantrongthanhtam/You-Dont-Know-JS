@@ -82,7 +82,7 @@ Though `greeting` isn't declared until line 5, it's available to be assigned to 
 There's two necessary parts to the explanation:
 
 * the identifier is hoisted,
-* **and** it's automatically initialized to the value `undefined` from the top of the scope.
+* **and** it's automatically initialized to the value `Hello!` from the top of the scope.
 
 | NOTE: |
 | :--- |
